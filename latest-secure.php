@@ -16,3 +16,6 @@ $json[]=$row;
 mysqli_close($con); 
 echo json_encode($json); 
 ?>
+
+
+123
